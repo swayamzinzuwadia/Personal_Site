@@ -96,6 +96,7 @@ hr{
     margin: auto;
 }
 .mountain-img{
+    padding-top: 150px;
     width: 100%;
     max-width: 800px;
 }
@@ -125,14 +126,14 @@ hr{
     min-width: 35%;
 }
 .bottom-cloud{
-    width: 50%;
     position: absolute;
-    bottom: 20%;
+    bottom: 30%;
     left: 15%;
+    width: auto;
     max-width: 250px;
 }
 .top-cloud{
-    width: 50%;
+    width: auto;
     position: absolute;
     right: 15%;
     top: 5%;
