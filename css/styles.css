@@ -129,11 +129,11 @@ hr{
     position: absolute;
     bottom: 30%;
     left: 15%;
-    width: auto;
+    width: 200px;
     max-width: 250px;
 }
 .top-cloud{
-    width: auto;
+    width: 200px;
     position: absolute;
     right: 15%;
     top: 5%;
