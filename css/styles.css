@@ -96,7 +96,7 @@ hr{
     margin: auto;
 }
 .mountain-img{
-    padding-top: 150px;
+    padding-top: 250px;
     width: 100%;
     max-width: 800px;
 }
@@ -127,7 +127,7 @@ hr{
 }
 .bottom-cloud{
     position: absolute;
-    bottom: 30%;
+    bottom: 42%;
     left: 15%;
     width: 200px;
     max-width: 250px;
